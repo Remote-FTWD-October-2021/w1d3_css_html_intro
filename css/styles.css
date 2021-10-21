@@ -1,0 +1,48 @@
+body {
+  background-color: lightgrey;
+}
+
+/* p, h1, h2 {
+  color: red;
+} */
+
+p {
+  font-size: 30px;
+}
+
+li {
+  text-decoration: underline;
+}
+
+img {
+  /* width: 150px; */
+  height: 100px;
+  border: 5px solid coral;
+  border-radius: 10%;
+}
+
+/* clases */
+
+.red-color {
+  color: red;
+}
+
+/* id */
+
+#blue-color {
+  color: blue;
+}
+
+.green-color{
+  color: rgb(0, 128, 0);
+}
+
+
+
+li {
+  color:chartreuse;
+}
+
+li:hover {
+  color: rgba(163, 71, 71, 0.1);
+}
